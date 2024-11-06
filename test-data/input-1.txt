@@ -1,0 +1,3 @@
+# Elso raktar ures, masikban van torpedo
+GT4500,0,0,10,0
+TORPEDO,SINGLE  # masodik raktarbol kellene tuzelnie
